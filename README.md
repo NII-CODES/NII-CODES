@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@niiknewttin)
 
 <p align="left">
-<a href="https://www.hackerrank.com/@amarhnii_isaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@amarhnii_isaac" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@amarhnii_isaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amarhnii_isaac" height="30" width="40" /></a>
 </p>
 
 # 💻Tech Stack
